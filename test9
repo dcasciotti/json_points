@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>title</title>
+    <description>channel_description</description>
+    <link>channel_link</link>
+    <item>
+      <title>Feature 1</title>
+      <georss:point>42.660818680248042 -73.778180998287468</georss:point>
+    </item>
+    <item>
+      <title>Feature 2</title>
+      <georss:point>42.660544768899832 -73.778172411597936</georss:point>
+    </item>
+    <item>
+      <title>Feature 3</title>
+      <georss:point>42.66063867706827 -73.778395069617829</georss:point>
+    </item>
+    <item>
+      <title>Feature 4</title>
+      <georss:point>42.660567330596976 -73.778421991062842</georss:point>
+    </item>
+    <item>
+      <title>Feature 5</title>
+      <georss:point>42.660499980341186 -73.778501058939639</georss:point>
+    </item>
+    <item>
+      <title>Feature 6</title>
+      <georss:point>42.66036879065706 -73.778634299047994</georss:point>
+    </item>
+    <item>
+      <title>Feature 7</title>
+      <georss:point>42.660315035541608 -73.778688355990752</georss:point>
+    </item>
+    <item>
+      <title>Feature 8</title>
+      <georss:point>42.660252237726141 -73.778762399983478</georss:point>
+    </item>
+    <item>
+      <title>Feature 9</title>
+      <georss:point>42.660425280273678 -73.77857772567252</georss:point>
+    </item>
+    <item>
+      <title>Feature 10</title>
+      <georss:point>42.660922283700877 -73.778911496771144</georss:point>
+    </item>
+    <item>
+      <title>Feature 11</title>
+      <georss:point>42.660891254284586 -73.778854554992023</georss:point>
+    </item>
+    <item>
+      <title>Feature 12</title>
+      <georss:point>42.660782411925616 -73.778647156994921</georss:point>
+    </item>
+    <item>
+      <title>Feature 13</title>
+      <georss:point>42.660643285375244 -73.778791442951004</georss:point>
+    </item>
+    <item>
+      <title>Feature 14</title>
+      <georss:point>42.660540970811191 -73.778897313473564</georss:point>
+    </item>
+    <item>
+      <title>Feature 15</title>
+      <georss:point>42.66036498406725 -73.779122799009983</georss:point>
+    </item>
+    <item>
+      <title>Feature 16</title>
+      <georss:point>42.660493916537504 -73.779354551897143</georss:point>
+    </item>
+    <item>
+      <title>Feature 17</title>
+      <georss:point>42.660534497378201 -73.779436767271349</georss:point>
+    </item>
+    <item>
+      <title>Feature 18</title>
+      <georss:point>42.66056209042177 -73.779480876157677</georss:point>
+    </item>
+    <item>
+      <title>Feature 19</title>
+      <georss:point>42.660422085595151 -73.779225802506105</georss:point>
+    </item>
+    <item>
+      <title>Feature 20</title>
+      <georss:point>42.660458043339275 -73.779296964846154</georss:point>
+    </item>
+    <item>
+      <title>Feature 21</title>
+      <georss:point>42.660547309860291 -73.778445832999893</georss:point>
+    </item>
+    <item>
+      <title>Feature 22</title>
+      <georss:point>42.660475383490365 -73.778526196708043</georss:point>
+    </item>
+    <item>
+      <title>Feature 23</title>
+      <georss:point>42.660400942775034 -73.77919396121473</georss:point>
+    </item>
+    <item>
+      <title>Feature 24</title>
+      <georss:point>42.66087533608038 -73.778827775167485</georss:point>
+    </item>
+    <item>
+      <title>Feature 25</title>
+      <georss:point>42.660746925658273 -73.778682521885614</georss:point>
+    </item>
+    <item>
+      <title>Feature 26</title>
+      <georss:point>42.6606816379376 -73.778751319541726</georss:point>
+    </item>
+    <item>
+      <title>Feature 27</title>
+      <georss:point>42.660579406100631 -73.778857883305676</georss:point>
+    </item>
+    <item>
+      <title>Feature 28</title>
+      <georss:point>42.660345639061546 -73.779087233715686</georss:point>
+    </item>
+  </channel>
+</rss>

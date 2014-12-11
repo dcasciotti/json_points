@@ -1,0 +1,536 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.10.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="90.000000000000000" minlon="180.000000000000000" maxlat="1395206.682248510420322" maxlon="686270.625008337199688"/></metadata>        
+<wpt lat="1395170.603580512106419" lon="686267.463269252330065">
+  <extensions>
+    <ogr:OBJECTID_1>54542</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32951.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010010000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>220</ogr:HN_TXT>
+    <ogr:HN_NUM>220.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-1</ogr:COMMENTS>
+    <ogr:AKA>17080</ogr:AKA>
+    <ogr:BLDG_ADDRE>220 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>220 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>220 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395070.804239429533482" lon="686270.625008337199688">
+  <extensions>
+    <ogr:OBJECTID_1>54565</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32974.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010460000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>446</ogr:HN_TXT>
+    <ogr:HN_NUM>446.0</ogr:HN_NUM>
+    <ogr:SN>HUDSON</ogr:SN>
+    <ogr:ST>AV</ogr:ST>
+    <ogr:COMMENTS>65.69-1-46</ogr:COMMENTS>
+    <ogr:AKA>18075</ogr:AKA>
+    <ogr:BLDG_ADDRE>446 HUDSON AV</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>446 HUDSON AV</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>446 Hudson Avenue</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395104.515130013227463" lon="686210.445666752755642">
+  <extensions>
+    <ogr:OBJECTID_1>54566</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32975.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010470000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>224</ogr:HN_TXT>
+    <ogr:HN_NUM>224.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-47</ogr:COMMENTS>
+    <ogr:AKA>17079</ogr:AKA>
+    <ogr:BLDG_ADDRE>224 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>224 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>224 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395078.453174263238907" lon="686203.426651921123266">
+  <extensions>
+    <ogr:OBJECTID_1>54567</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32976.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010480000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>226</ogr:HN_TXT>
+    <ogr:HN_NUM>226.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-48</ogr:COMMENTS>
+    <ogr:AKA>17078</ogr:AKA>
+    <ogr:BLDG_ADDRE>226 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>226 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>226 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395053.72783000767231" lon="686182.369607418775558">
+  <extensions>
+    <ogr:OBJECTID_1>54568</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32977.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010490000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>230</ogr:HN_TXT>
+    <ogr:HN_NUM>230.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-49</ogr:COMMENTS>
+    <ogr:AKA>17077</ogr:AKA>
+    <ogr:BLDG_ADDRE>230 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>230 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>230 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395005.613753013312817" lon="686146.940544418990612">
+  <extensions>
+    <ogr:OBJECTID_1>54570</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32979.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010510000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>236</ogr:HN_TXT>
+    <ogr:HN_NUM>236.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-51</ogr:COMMENTS>
+    <ogr:AKA>17075</ogr:AKA>
+    <ogr:BLDG_ADDRE>236 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>236 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>236 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1394985.90020976215601" lon="686132.568197838962078">
+  <extensions>
+    <ogr:OBJECTID_1>54571</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32980.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010520000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>238</ogr:HN_TXT>
+    <ogr:HN_NUM>238.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-52</ogr:COMMENTS>
+    <ogr:AKA>17074</ogr:AKA>
+    <ogr:BLDG_ADDRE>238 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>238 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>238 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1394962.84546584635973" lon="686112.848092921078205">
+  <extensions>
+    <ogr:OBJECTID_1>54572</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32981.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010530000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>240</ogr:HN_TXT>
+    <ogr:HN_NUM>240.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-53</ogr:COMMENTS>
+    <ogr:AKA>17073</ogr:AKA>
+    <ogr:BLDG_ADDRE>240 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>240 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>240 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395026.3295908421278" lon="686161.981196753680706">
+  <extensions>
+    <ogr:OBJECTID_1>54569</ogr:OBJECTID_1>
+    <ogr:OBJECTID>32978.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010500000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>234</ogr:HN_TXT>
+    <ogr:HN_NUM>234.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-50</ogr:COMMENTS>
+    <ogr:AKA>17076</ogr:AKA>
+    <ogr:BLDG_ADDRE>234 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>234 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>234 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395206.682248510420322" lon="686070.66346600279212">
+  <extensions>
+    <ogr:OBJECTID_1>54594</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33004.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020080000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>452</ogr:HN_TXT>
+    <ogr:HN_NUM>452.0</ogr:HN_NUM>
+    <ogr:SN>HUDSON</ogr:SN>
+    <ogr:ST>AV</ogr:ST>
+    <ogr:COMMENTS>65.69-2-8</ogr:COMMENTS>
+    <ogr:AKA>18077</ogr:AKA>
+    <ogr:BLDG_ADDRE>452 HUDSON AV</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>452 HUDSON AV</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>452 Hudson Avenue</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395195.505105510354042" lon="686086.07518058642745">
+  <extensions>
+    <ogr:OBJECTID_1>54595</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33005.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020090000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>450</ogr:HN_TXT>
+    <ogr:HN_NUM>450.0</ogr:HN_NUM>
+    <ogr:SN>HUDSON</ogr:SN>
+    <ogr:ST>AV</ogr:ST>
+    <ogr:COMMENTS>65.69-2-9</ogr:COMMENTS>
+    <ogr:AKA>18076</ogr:AKA>
+    <ogr:BLDG_ADDRE>450 HUDSON AV</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>450 HUDSON AV</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>450 Hudson Avenue</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395156.316535592079163" lon="686142.196131337434053">
+  <extensions>
+    <ogr:OBJECTID_1>54596</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33006.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020100000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>233</ogr:HN_TXT>
+    <ogr:HN_NUM>233.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-10</ogr:COMMENTS>
+    <ogr:AKA>17112</ogr:AKA>
+    <ogr:BLDG_ADDRE>233 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>233 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>233 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395105.28481350839138" lon="686103.820880003273487">
+  <extensions>
+    <ogr:OBJECTID_1>54597</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33007.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020110000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>239</ogr:HN_TXT>
+    <ogr:HN_NUM>239.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-11</ogr:COMMENTS>
+    <ogr:AKA>17111</ogr:AKA>
+    <ogr:BLDG_ADDRE>239 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>239 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>239 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395067.756345257163048" lon="686075.663456004112959">
+  <extensions>
+    <ogr:OBJECTID_1>54598</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33008.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020120000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>243</ogr:HN_TXT>
+    <ogr:HN_NUM>243.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-12</ogr:COMMENTS>
+    <ogr:AKA>17110</ogr:AKA>
+    <ogr:BLDG_ADDRE>243 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>243 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>243 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395003.10588400810957" lon="686015.56252633780241">
+  <extensions>
+    <ogr:OBJECTID_1>54599</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33009.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020130000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>445</ogr:HN_TXT>
+    <ogr:HN_NUM>445.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-13</ogr:COMMENTS>
+    <ogr:AKA>18022</ogr:AKA>
+    <ogr:BLDG_ADDRE>445 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>445 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>445 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395049.560187429189682" lon="685952.828399837017059">
+  <extensions>
+    <ogr:OBJECTID_1>54602</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33012.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020160000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>453</ogr:HN_TXT>
+    <ogr:HN_NUM>453.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-16</ogr:COMMENTS>
+    <ogr:AKA>18025</ogr:AKA>
+    <ogr:BLDG_ADDRE>453 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>453 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>453 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395064.160223841667175" lon="685930.58927108719945">
+  <extensions>
+    <ogr:OBJECTID_1>54603</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33013.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020170000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>455</ogr:HN_TXT>
+    <ogr:HN_NUM>455.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-17</ogr:COMMENTS>
+    <ogr:AKA>18026</ogr:AKA>
+    <ogr:BLDG_ADDRE>455 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>455 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>455 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395074.114600263535976" lon="685918.639819920063019">
+  <extensions>
+    <ogr:OBJECTID_1>54604</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33014.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020180000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>457</ogr:HN_TXT>
+    <ogr:HN_NUM>457.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-18</ogr:COMMENTS>
+    <ogr:AKA>18027</ogr:AKA>
+    <ogr:BLDG_ADDRE>457 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>457 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>457 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395023.678677506744862" lon="685987.680692337453365">
+  <extensions>
+    <ogr:OBJECTID_1>54600</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33010.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020140000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>449</ogr:HN_TXT>
+    <ogr:HN_NUM>449.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-14</ogr:COMMENTS>
+    <ogr:AKA>18023</ogr:AKA>
+    <ogr:BLDG_ADDRE>449 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>449 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>449 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395036.619268424808979" lon="685968.428762339055538">
+  <extensions>
+    <ogr:OBJECTID_1>54601</ogr:OBJECTID_1>
+    <ogr:OBJECTID>33011.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020150000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>PRIMARY</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>2.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>451</ogr:HN_TXT>
+    <ogr:HN_NUM>451.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-15</ogr:COMMENTS>
+    <ogr:AKA>18024</ogr:AKA>
+    <ogr:BLDG_ADDRE>451 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>451 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>451 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395071.102467179298401" lon="686197.076270919293165">
+  <extensions>
+    <ogr:OBJECTID_1>57796</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1448.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010480000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>228</ogr:HN_TXT>
+    <ogr:HN_NUM>228.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-48</ogr:COMMENTS>
+    <ogr:AKA>17078</ogr:AKA>
+    <ogr:BLDG_ADDRE>228 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>228 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>228 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395044.706522591412067" lon="686175.684909503906965">
+  <extensions>
+    <ogr:OBJECTID_1>57797</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1449.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900010490000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>232</ogr:HN_TXT>
+    <ogr:HN_NUM>232.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-1-49</ogr:COMMENTS>
+    <ogr:AKA>17077</ogr:AKA>
+    <ogr:BLDG_ADDRE>232 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>232 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>232 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395016.046803012490273" lon="685996.310596335679293">
+  <extensions>
+    <ogr:OBJECTID_1>57976</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1563.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020140000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>447</ogr:HN_TXT>
+    <ogr:HN_NUM>447.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-14</ogr:COMMENTS>
+    <ogr:AKA>18023</ogr:AKA>
+    <ogr:BLDG_ADDRE>447 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>447 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>447 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395189.765615679323673" lon="686093.327462669461966">
+  <extensions>
+    <ogr:OBJECTID_1>57971</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1558.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020090000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>448</ogr:HN_TXT>
+    <ogr:HN_NUM>448.0</ogr:HN_NUM>
+    <ogr:SN>HUDSON</ogr:SN>
+    <ogr:ST>AV</ogr:ST>
+    <ogr:COMMENTS>65.69-2-9</ogr:COMMENTS>
+    <ogr:AKA>18076</ogr:AKA>
+    <ogr:BLDG_ADDRE>448 HUDSON AV</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>448 HUDSON AV</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>448 Hudson Avenue</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395143.303438261151314" lon="686132.794575337320566">
+  <extensions>
+    <ogr:OBJECTID_1>57972</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1559.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020100000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>235</ogr:HN_TXT>
+    <ogr:HN_NUM>235.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-10</ogr:COMMENTS>
+    <ogr:AKA>17112</ogr:AKA>
+    <ogr:BLDG_ADDRE>235 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>235 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>235 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395119.353354923427105" lon="686114.493430837988853">
+  <extensions>
+    <ogr:OBJECTID_1>57973</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1560.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020110000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>237</ogr:HN_TXT>
+    <ogr:HN_NUM>237.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-11</ogr:COMMENTS>
+    <ogr:AKA>17111</ogr:AKA>
+    <ogr:BLDG_ADDRE>237 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>237 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>237 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1395081.853429928421974" lon="686086.149327419698238">
+  <extensions>
+    <ogr:OBJECTID_1>57974</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1561.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020120000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>241</ogr:HN_TXT>
+    <ogr:HN_NUM>241.0</ogr:HN_NUM>
+    <ogr:SN>QUAIL</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-12</ogr:COMMENTS>
+    <ogr:AKA>17110</ogr:AKA>
+    <ogr:BLDG_ADDRE>241 QUAIL ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>241 QUAIL ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>241 Quail Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+<wpt lat="1394996.137722089886665" lon="686025.188491337001324">
+  <extensions>
+    <ogr:OBJECTID_1>57975</ogr:OBJECTID_1>
+    <ogr:OBJECTID>1562.0</ogr:OBJECTID>
+    <ogr:SWIS_CODE>010100</ogr:SWIS_CODE>
+    <ogr:PIN_SBL>06506900020130000000</ogr:PIN_SBL>
+    <ogr:ADD_CLASS>ALTERNATE</ogr:ADD_CLASS>
+    <ogr:CONFIDENCE>0.0</ogr:CONFIDENCE>
+    <ogr:HN_TXT>443</ogr:HN_TXT>
+    <ogr:HN_NUM>443.0</ogr:HN_NUM>
+    <ogr:SN>HAMILTON</ogr:SN>
+    <ogr:ST>ST</ogr:ST>
+    <ogr:COMMENTS>65.69-2-13</ogr:COMMENTS>
+    <ogr:AKA>18022</ogr:AKA>
+    <ogr:BLDG_ADDRE>443 HAMILTON ST</ogr:BLDG_ADDRE>
+    <ogr:ESRI_LOCAT>443 HAMILTON ST</ogr:ESRI_LOCAT>
+    <ogr:STREET_FUL>443 Hamilton Street</ogr:STREET_FUL>
+  </extensions>
+</wpt>
+</gpx>
